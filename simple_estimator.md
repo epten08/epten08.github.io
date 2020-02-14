@@ -5,5 +5,5 @@
 
 
 <h4>User Interface</h4>
-<img src='static/estimator_ui'>
+<img src='.../estimator_ui'>
 <p> User interface was designed using <a href=#> PyQt5 Designer </a></p>
